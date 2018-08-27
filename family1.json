@@ -1,0 +1,29 @@
+{
+    "nodes": [
+        { "name": "A1110030 Joshua Tan", "group": 1 },
+        { "name": "A1110049 Nicholas Lim", "group": 2 },
+        { "name": "A1110079 Tyler Tan", "group": 2 },
+		{ "name": "A1110200 Logan Tan", "group": 2 },
+        { "name": "A1110054 Emily Tan", "group": 2 },
+        { "name": "A1110066 Jennifer Tan", "group": 3 },
+        { "name": "A1110072 Shawn Tan", "group": 3 },
+        { "name": "A1110053 Jeremy Tan", "group": 2 },
+        { "name": "A1110789 Jasper Tan", "group": 4 },
+        { "name": "A1110854 Edward Tan", "group": 4 }
+           ],
+    "links": [
+        { "source": 0, "target": 1, "value": 1 },
+        { "source": 0, "target": 2, "value": 1 },
+        { "source": 0, "target": 3, "value": 1 },
+        { "source": 0, "target": 6, "value": 1 },
+        { "source": 4, "target": 5, "value": 2 },
+        { "source": 4, "target": 0, "value": 3 },
+        { "source": 5, "target": 0, "value": 3 },
+        { "source": 5, "target": 7, "value": 4 },
+        { "source": 5, "target": 8, "value": 4 },
+        { "source": 5, "target": 9, "value": 4 },
+        { "source": 8, "target": 9, "value": 2 }
+       
+
+    ]
+}
